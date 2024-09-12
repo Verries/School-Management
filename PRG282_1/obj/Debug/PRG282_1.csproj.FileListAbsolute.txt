@@ -1,0 +1,17 @@
+C:\Users\Vernon\Downloads\PRG282_1\bin\Debug\PRG282_1.exe.config
+C:\Users\Vernon\Downloads\PRG282_1\bin\Debug\PRG282_1.exe
+C:\Users\Vernon\Downloads\PRG282_1\bin\Debug\PRG282_1.pdb
+C:\Users\Vernon\Downloads\PRG282_1\obj\Debug\PRG282_1.csproj.AssemblyReference.cache
+C:\Users\Vernon\Downloads\PRG282_1\obj\Debug\PRG282_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vernon\Downloads\PRG282_1\obj\Debug\PRG282_1.Properties.Resources.resources
+C:\Users\Vernon\Downloads\PRG282_1\obj\Debug\PRG282_1.csproj.GenerateResource.cache
+C:\Users\Vernon\Downloads\PRG282_1\obj\Debug\PRG282_1.csproj.CoreCompileInputs.cache
+C:\Users\Vernon\Downloads\PRG282_1\obj\Debug\PRG282_1.exe
+C:\Users\Vernon\Downloads\PRG282_1\obj\Debug\PRG282_1.pdb
+C:\Users\Vernon\Downloads\PRG282_1\obj\Debug\PRG282_1.LoginForm.resources
+C:\Users\Vernon\Downloads\PRG282_1\obj\Debug\PRG282_1.AddStudent.resources
+C:\Users\Vernon\Downloads\PRG282_1\obj\Debug\PRG282_1.DeleteStudent.resources
+C:\Users\Vernon\Downloads\PRG282_1\obj\Debug\PRG282_1.MainMenuForm.resources
+C:\Users\Vernon\Downloads\PRG282_1\obj\Debug\PRG282_1.SearchStudent.resources
+C:\Users\Vernon\Downloads\PRG282_1\obj\Debug\PRG282_1.UpdateStudent.resources
+C:\Users\Vernon\Downloads\PRG282_1\obj\Debug\PRG282_1.RegisterForm.resources

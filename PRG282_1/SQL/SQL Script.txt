@@ -1,0 +1,19 @@
+-- Create the BelgiumCampusProject database
+CREATE DATABASE BelgiumCampusProject;
+GO
+
+-- Use the newly created database
+USE BelgiumCampusProject;
+GO
+
+-- Create the Students table
+CREATE TABLE Students (
+    StudentNumber INT PRIMARY KEY,
+    Firstname NVARCHAR(100),
+    Surname NVARCHAR(100),
+    DOB DATE,
+    Gender NVARCHAR(10),
+    Phone NVARCHAR(15),
+    StudentAddress NVARCHAR(255),
+);
+GO
